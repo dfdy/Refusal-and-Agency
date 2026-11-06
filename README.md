@@ -10,21 +10,23 @@ Take a look. Find something that speaks to you. Share it, question it, or make i
 
 ## Stickers
 
+Click a thumbnail to view the full-resolution image.
+
 <table>
 <tr>
-<td width="33%"><img src="images/refuse.jpg" alt="Refuse" width="320"></td>
-<td width="33%"><img src="images/praxis.jpg" alt="Praxis" width="320"></td>
-<td width="33%"><img src="images/practice.jpg" alt="Practice" width="320"></td>
+<td width="33%"><a href="images/refuse.jpg?raw=true"><img src="images/refuse.jpg" alt="Refuse" width="160"></a></td>
+<td width="33%"><a href="images/praxis.jpg?raw=true"><img src="images/praxis.jpg" alt="Praxis" width="160"></a></td>
+<td width="33%"><a href="images/practice.jpg?raw=true"><img src="images/practice.jpg" alt="Practice" width="160"></a></td>
 </tr>
 <tr>
-<td><img src="images/priors.jpg" alt="Priors" width="320"></td>
-<td><img src="images/profit.jpg" alt="Profit" width="320"></td>
-<td><img src="images/invariant.jpg" alt="Invariant" width="320"></td>
+<td><a href="images/priors.jpg?raw=true"><img src="images/priors.jpg" alt="Priors" width="160"></a></td>
+<td><a href="images/profit.jpg?raw=true"><img src="images/profit.jpg" alt="Profit" width="160"></a></td>
+<td><a href="images/invariant.jpg?raw=true"><img src="images/invariant.jpg" alt="Invariant" width="160"></a></td>
 </tr>
 <tr>
-<td><img src="images/agency.jpg" alt="Agency" width="320"></td>
-<td><img src="images/standards.jpg" alt="Standards" width="320"></td>
-<td><img src="images/reach-out.jpg" alt="Reach out" width="320"></td>
+<td><a href="images/agency.jpg?raw=true"><img src="images/agency.jpg" alt="Agency" width="160"></a></td>
+<td><a href="images/standards.jpg?raw=true"><img src="images/standards.jpg" alt="Standards" width="160"></a></td>
+<td><a href="images/reach-out.jpg?raw=true"><img src="images/reach-out.jpg" alt="Reach out" width="160"></a></td>
 </tr>
 </table>
 
