@@ -21,16 +21,10 @@ Take a look. Find something that speaks to you. Share it, question it, or make i
 <td><img src="images/profit.jpg" alt="Profit" width="320"></td>
 <td><img src="images/invariant.jpg" alt="Invariant" width="320"></td>
 </tr>
-</table>
-
-## Explorations
-
-<table>
 <tr>
-<td width="25%"><img src="images/agency.jpg" alt="Agency" width="240"></td>
-<td width="25%"><img src="images/jante.jpg" alt="Jante" width="240"></td>
-<td width="25%"><img src="images/standards.jpg" alt="Standards" width="240"></td>
-<td width="25%"><img src="images/reach-out.jpg" alt="Reach out" width="240"></td>
+<td><img src="images/agency.jpg" alt="Agency" width="320"></td>
+<td><img src="images/standards.jpg" alt="Standards" width="320"></td>
+<td><img src="images/reach-out.jpg" alt="Reach out" width="320"></td>
 </tr>
 </table>
 
