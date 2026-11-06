@@ -1,0 +1,9 @@
+# Local originals and working files
+/archive/
+*.afdesign
+*.pdf
+*.code-workspace
+
+# macOS metadata
+.DS_Store
+._*
