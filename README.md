@@ -14,19 +14,19 @@ Click a thumbnail to view the full-resolution image.
 
 <table>
 <tr>
-<td width="33%"><a href="images/refuse.jpg?raw=true"><img src="images/refuse.jpg" alt="Refuse" width="300"></a></td>
-<td width="33%"><a href="images/praxis.jpg?raw=true"><img src="images/praxis.jpg" alt="Praxis" width="300"></a></td>
-<td width="33%"><a href="images/practice.jpg?raw=true"><img src="images/practice.jpg" alt="Practice" width="300"></a></td>
+<td width="33%"><a href="images/refuse.jpg?raw=true"><img src="images/thumbnails/refuse.jpg" alt="Refuse" width="300"></a></td>
+<td width="33%"><a href="images/praxis.jpg?raw=true"><img src="images/thumbnails/praxis.jpg" alt="Praxis" width="300"></a></td>
+<td width="33%"><a href="images/practice.jpg?raw=true"><img src="images/thumbnails/practice.jpg" alt="Practice" width="300"></a></td>
 </tr>
 <tr>
-<td><a href="images/priors.jpg?raw=true"><img src="images/priors.jpg" alt="Priors" width="300"></a></td>
-<td><a href="images/profit.jpg?raw=true"><img src="images/profit.jpg" alt="Profit" width="300"></a></td>
-<td><a href="images/invariant.jpg?raw=true"><img src="images/invariant.jpg" alt="Invariant" width="300"></a></td>
+<td><a href="images/priors.jpg?raw=true"><img src="images/thumbnails/priors.jpg" alt="Priors" width="300"></a></td>
+<td><a href="images/profit.jpg?raw=true"><img src="images/thumbnails/profit.jpg" alt="Profit" width="300"></a></td>
+<td><a href="images/invariant.jpg?raw=true"><img src="images/thumbnails/invariant.jpg" alt="Invariant" width="300"></a></td>
 </tr>
 <tr>
-<td><a href="images/agency.jpg?raw=true"><img src="images/agency.jpg" alt="Agency" width="300"></a></td>
-<td><a href="images/standards.jpg?raw=true"><img src="images/standards.jpg" alt="Standards" width="300"></a></td>
-<td><a href="images/reach-out.jpg?raw=true"><img src="images/reach-out.jpg" alt="Reach out" width="300"></a></td>
+<td><a href="images/agency.jpg?raw=true"><img src="images/thumbnails/agency.jpg" alt="Agency" width="300"></a></td>
+<td><a href="images/standards.jpg?raw=true"><img src="images/thumbnails/standards.jpg" alt="Standards" width="300"></a></td>
+<td><a href="images/reach-out.jpg?raw=true"><img src="images/thumbnails/reach-out.jpg" alt="Reach out" width="300"></a></td>
 </tr>
 </table>
 
